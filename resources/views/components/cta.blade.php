@@ -1,0 +1,1 @@
+<section class="cta section"><div><p class="eyebrow">{{ __('site.eyebrow') }}</p><h2 class="lines">{{ __('site.cta_title') }}</h2><p>{{ __('site.cta_body') }}</p></div><a class="btn" href="{{ url('/'.app()->getLocale().'/quote') }}">{{ __('site.quote') }} <span>↗</span></a></section>

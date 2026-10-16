@@ -1,0 +1,411 @@
+[
+  {
+    "type": "service",
+    "slug": "stickers-vinyl",
+    "title": {
+      "en": "Stickers & vinyl",
+      "ar": "الملصقات والفينيل"
+    },
+    "body": {
+      "en": "Printed graphics for surfaces, windows and brand applications. Share your intended use and dimensions.",
+      "ar": "رسومات مطبوعة للأسطح والزجاج وتطبيقات الهوية. شاركنا الاستخدام والمقاسات المطلوبة."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 0
+  },
+  {
+    "type": "service",
+    "slug": "illuminated-signs",
+    "title": {
+      "en": "Signs & illuminated letters",
+      "ar": "اللوحات والحروف المضيئة"
+    },
+    "body": {
+      "en": "Dimensional lettering and sign concepts for shopfronts and interiors. Final material and illumination are confirmed per project.",
+      "ar": "حروف بارزة ولوحات لواجهات المحلات والمساحات الداخلية. يتم تأكيد الخامات والإضاءة لكل مشروع."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 1
+  },
+  {
+    "type": "service",
+    "slug": "large-format-printing",
+    "title": {
+      "en": "Large-format printing",
+      "ar": "طباعة المقاسات الكبيرة"
+    },
+    "body": {
+      "en": "Banners, flex and larger printed graphics for your business. Size, surface and finish are agreed before production.",
+      "ar": "بنرات وفلكس ورسومات بمقاسات كبيرة لنشاطك. نؤكد المقاس والسطح والتشطيب قبل الإنتاج."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 2
+  },
+  {
+    "type": "service",
+    "slug": "uv-flatbed-printing",
+    "title": {
+      "en": "UV & flatbed printing",
+      "ar": "طباعة UV والطباعة المسطحة"
+    },
+    "body": {
+      "en": "Printing for boards and flat applications. Ask us to confirm the suitability of your chosen material.",
+      "ar": "طباعة للألواح والتطبيقات المسطحة. تواصل معنا لتأكيد ملاءمة الخامة المطلوبة."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 3
+  },
+  {
+    "type": "service",
+    "slug": "decorative-displays",
+    "title": {
+      "en": "Decorative boards & displays",
+      "ar": "لوحات ديكور ومجسّمات عرض"
+    },
+    "body": {
+      "en": "Printed decorative boards, branded displays and cutouts. Supply your artwork or discuss your design requirements.",
+      "ar": "لوحات ديكور مطبوعة ووحدات عرض ومجسّمات مقصوصة. أرسل التصميم أو ناقش معنا متطلباته."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 4
+  },
+  {
+    "type": "service",
+    "slug": "installation-fabrication",
+    "title": {
+      "en": "Fabrication & installation",
+      "ar": "التصنيع والتركيب"
+    },
+    "body": {
+      "en": "Pasting, fabrication and installation for print and signage projects. Site access and installation scope are confirmed in the quote.",
+      "ar": "لصق وتصنيع وتركيب لمشاريع الطباعة واللوحات. يتم تأكيد نطاق التركيب وظروف الموقع في عرض السعر."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 5
+  },
+  {
+    "type": "service",
+    "slug": "indoor-printing",
+    "title": {
+      "en": "Indoor printing",
+      "ar": "الطباعة الداخلية"
+    },
+    "body": {
+      "en": "Printed graphics for indoor spaces. Tell us about the location, desired appearance and measurements.",
+      "ar": "رسومات مطبوعة للمساحات الداخلية. أخبرنا بالموقع والمظهر المطلوب والمقاسات."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 6
+  },
+  {
+    "type": "project",
+    "slug": "roll-production",
+    "title": {
+      "en": "Roll printing in progress",
+      "ar": "أثناء الطباعة على الرول"
+    },
+    "body": {
+      "en": "Workshop footage supplied by the business. View the production videos for a closer look. Exact specifications are confirmed on inquiry.",
+      "ar": "لقطات من الورشة مقدّمة من صاحب النشاط. شاهد مقاطع الإنتاج لمزيد من التفاصيل. يتم تأكيد المواصفات عند الطلب."
+    },
+    "meta": {
+      "image": "media/roll-print-production.jpg",
+      "category": "Workshop reference"
+    },
+    "featured": true,
+    "published": true,
+    "sort_order": 7
+  },
+  {
+    "type": "project",
+    "slug": "dimensional-signs",
+    "title": {
+      "en": "Illuminated letters & displays",
+      "ar": "حروف مضيئة ولوحات عرض"
+    },
+    "body": {
+      "en": "Workshop footage supplied by the business. View the production videos for a closer look. Exact specifications are confirmed on inquiry.",
+      "ar": "لقطات من الورشة مقدّمة من صاحب النشاط. شاهد مقاطع الإنتاج لمزيد من التفاصيل. يتم تأكيد المواصفات عند الطلب."
+    },
+    "meta": {
+      "image": "media/illuminated-signs-displays.jpg",
+      "category": "Workshop reference"
+    },
+    "featured": true,
+    "published": true,
+    "sort_order": 8
+  },
+  {
+    "type": "project",
+    "slug": "printed-floral-art",
+    "title": {
+      "en": "Floral artwork on roll material",
+      "ar": "طباعة رسومات زهور على خامة رول"
+    },
+    "body": {
+      "en": "Workshop footage supplied by the business. View the production videos for a closer look. Exact specifications are confirmed on inquiry.",
+      "ar": "لقطات من الورشة مقدّمة من صاحب النشاط. شاهد مقاطع الإنتاج لمزيد من التفاصيل. يتم تأكيد المواصفات عند الطلب."
+    },
+    "meta": {
+      "image": "media/floral-roll-printing.jpg",
+      "category": "Workshop reference"
+    },
+    "featured": true,
+    "published": true,
+    "sort_order": 9
+  },
+  {
+    "type": "package",
+    "slug": "new-shop-opening",
+    "title": {
+      "en": "New shop opening",
+      "ar": "افتتاح محل جديد"
+    },
+    "body": {
+      "en": "Shopfront sign, window graphics and promotional print. Scope confirmed on inquiry.",
+      "ar": "لوحة واجهة ورسومات زجاج ومطبوعات ترويجية. يتم تأكيد النطاق عند الطلب."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 10
+  },
+  {
+    "type": "package",
+    "slug": "cafe-branding",
+    "title": {
+      "en": "Restaurant & café branding",
+      "ar": "هوية المطاعم والمقاهي"
+    },
+    "body": {
+      "en": "Signage, surface graphics and branded display elements. Scope confirmed on inquiry.",
+      "ar": "لوحات ورسومات أسطح وعناصر عرض بهوية النشاط. يتم تأكيد النطاق عند الطلب."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 11
+  },
+  {
+    "type": "package",
+    "slug": "office-signage",
+    "title": {
+      "en": "Office signage",
+      "ar": "لوحات المكاتب"
+    },
+    "body": {
+      "en": "Interior signs, door identification and display boards. Scope confirmed on inquiry.",
+      "ar": "لوحات داخلية وتعريف الأبواب ولوحات عرض. يتم تأكيد النطاق عند الطلب."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 12
+  },
+  {
+    "type": "package",
+    "slug": "promotional-printing",
+    "title": {
+      "en": "Promotional printing",
+      "ar": "الطباعة الترويجية"
+    },
+    "body": {
+      "en": "Banners, stickers and campaign graphics. Scope confirmed on inquiry.",
+      "ar": "بنرات وملصقات ورسومات للحملات الترويجية. يتم تأكيد النطاق عند الطلب."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 13
+  },
+  {
+    "type": "faq",
+    "slug": "how-to-quote",
+    "title": {
+      "en": "What should I include in my request?",
+      "ar": "ماذا أرفق بطلب عرض السعر؟"
+    },
+    "body": {
+      "en": "Share the service, dimensions, quantity, location and any reference design. We will confirm materials and production requirements with you.",
+      "ar": "أرسل الخدمة والمقاسات والكمية والموقع وأي تصميم مرجعي. سنؤكد معك الخامات ومتطلبات الإنتاج."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 14
+  },
+  {
+    "type": "faq",
+    "slug": "installation-available",
+    "title": {
+      "en": "Can I request installation?",
+      "ar": "هل يمكن طلب التركيب؟"
+    },
+    "body": {
+      "en": "Yes. Select installation in the request form. Site access, service area and installation requirements must be confirmed before approval.",
+      "ar": "نعم. اختر التركيب في نموذج الطلب. يجب تأكيد الوصول للموقع ومنطقة الخدمة ومتطلبات التركيب قبل الاعتماد."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 15
+  },
+  {
+    "type": "faq",
+    "slug": "preview-final",
+    "title": {
+      "en": "Is the 3D preview the final design?",
+      "ar": "هل المعاينة ثلاثية الأبعاد هي التصميم النهائي؟"
+    },
+    "body": {
+      "en": "No. It is a visual concept to communicate your idea. Final design, dimensions, materials and pricing require confirmation.",
+      "ar": "لا. هي تصوّر بصري لتوضيح فكرتك. يتطلب التصميم النهائي والأبعاد والخامات والسعر التأكيد."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 16
+  },
+  {
+    "type": "faq",
+    "slug": "delivery-time",
+    "title": {
+      "en": "How long does production take?",
+      "ar": "كم يستغرق الإنتاج؟"
+    },
+    "body": {
+      "en": "Timing depends on the agreed design, materials, quantity and installation. Include your requested date so availability can be confirmed.",
+      "ar": "يعتمد الموعد على التصميم والخامات والكمية والتركيب المتفق عليها. أضف الموعد المطلوب لنؤكد إمكانية التنفيذ."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 17
+  },
+  {
+    "type": "page",
+    "slug": "about",
+    "title": {
+      "en": "Printing your ideas into the real world.",
+      "ar": "نحوّل أفكارك إلى أعمال ملموسة."
+    },
+    "body": {
+      "en": "We provide printing, signage, decorative displays, fabrication and installation. Explore the workshop videos to see examples of the work. Every project starts with your requirements and a confirmed quotation.",
+      "ar": "نقدّم الطباعة واللوحات ووحدات العرض الزخرفية والتصنيع والتركيب. تصفّح مقاطع الورشة لمشاهدة أمثلة من العمل. يبدأ كل مشروع بمتطلباتك وعرض سعر معتمد."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 18
+  },
+  {
+    "type": "page",
+    "slug": "privacy",
+    "title": {
+      "en": "Privacy policy — draft",
+      "ar": "سياسة الخصوصية — مسودة"
+    },
+    "body": {
+      "en": "This draft requires business owner review before launch.\n\nInformation collected\nThe quote form collects contact details, project requirements, uploaded reference files and optional sign settings. These are used to review your request and contact you about your project.\n\nAccess and storage\nInquiry files are stored privately and available to authorised staff. Contact the business to request access, correction or deletion. A retention period and privacy contact must be confirmed before launch.\n\nCookies and analytics\nThe website uses essential session and security cookies. Optional analytics may be enabled after the business completes the required configuration and updates this notice.\n\nThird-party contact\nChoosing WhatsApp or an external map opens a third-party service. Review that service’s privacy policy.",
+      "ar": "تتطلب هذه المسودة مراجعة صاحب النشاط قبل الإطلاق.\n\nالمعلومات التي نجمعها\nيجمع نموذج الطلب بيانات الاتصال ومتطلبات المشروع والملفات المرجعية وخيارات اللوحة الاختيارية. نستخدمها لمراجعة الطلب والتواصل معك بخصوص المشروع.\n\nالوصول والتخزين\nتحفظ ملفات الطلب بشكل خاص ويتاح الوصول إليها للموظفين المخولين. تواصل مع النشاط لطلب الوصول أو التصحيح أو الحذف. يجب تأكيد مدة الاحتفاظ وجهة اتصال الخصوصية قبل الإطلاق.\n\nملفات الارتباط والتحليلات\nيستخدم الموقع ملفات ارتباط أساسية للجلسات والأمان. قد يتم تفعيل التحليلات الاختيارية بعد إكمال الإعدادات المطلوبة وتحديث هذا الإشعار.\n\nالتواصل الخارجي\nيؤدي اختيار واتساب أو الخريطة الخارجية إلى فتح خدمة خارجية. يرجى مراجعة سياسة خصوصية تلك الخدمة."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 19
+  },
+  {
+    "type": "product",
+    "slug": "vinyl-material",
+    "title": {
+      "en": "Vinyl graphics",
+      "ar": "رسومات فينيل"
+    },
+    "body": {
+      "en": "Development draft — confirm available options, finishes and specifications before publishing.",
+      "ar": "مسودة تطوير — أكّد الخيارات والتشطيبات والمواصفات المتاحة قبل النشر."
+    },
+    "meta": {},
+    "featured": false,
+    "published": false,
+    "sort_order": 20
+  },
+  {
+    "type": "product",
+    "slug": "display-board",
+    "title": {
+      "en": "Printed display board",
+      "ar": "لوحة عرض مطبوعة"
+    },
+    "body": {
+      "en": "Development draft — confirm available options, finishes and specifications before publishing.",
+      "ar": "مسودة تطوير — أكّد الخيارات والتشطيبات والمواصفات المتاحة قبل النشر."
+    },
+    "meta": {},
+    "featured": false,
+    "published": false,
+    "sort_order": 21
+  },
+  {
+    "type": "product",
+    "slug": "dimensional-lettering",
+    "title": {
+      "en": "Dimensional lettering",
+      "ar": "حروف بارزة"
+    },
+    "body": {
+      "en": "Development draft — confirm available options, finishes and specifications before publishing.",
+      "ar": "مسودة تطوير — أكّد الخيارات والتشطيبات والمواصفات المتاحة قبل النشر."
+    },
+    "meta": {},
+    "featured": false,
+    "published": false,
+    "sort_order": 22
+  },
+  {
+    "type": "page",
+    "slug": "home",
+    "title": {
+      "en": "Make your brand\nimpossible to miss.",
+      "ar": "امنح علامتك\nحضوراً لا يُنسى."
+    },
+    "body": {
+      "en": "From printed surfaces to illuminated letters. Bring your idea to life with printing, fabrication and installation.",
+      "ar": "من الأسطح المطبوعة إلى الحروف المضيئة. نحوّل فكرتك إلى واقع بالطباعة والتصنيع والتركيب."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 0
+  },
+  {
+    "type": "page",
+    "slug": "footer",
+    "title": {
+      "en": "Footer",
+      "ar": "التذييل"
+    },
+    "body": {
+      "en": "Printing, signage and installation. Built around your idea.",
+      "ar": "طباعة ولوحات وتركيب. نبدأ من فكرتك."
+    },
+    "meta": {},
+    "featured": false,
+    "published": true,
+    "sort_order": 0
+  }
+]

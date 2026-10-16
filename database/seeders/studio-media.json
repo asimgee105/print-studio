@@ -1,0 +1,58 @@
+[
+  {
+    "path": "media/roll-print-production.mp4",
+    "poster": "media/roll-print-production.jpg",
+    "kind": "video",
+    "caption": {
+      "en": "Roll printing in progress",
+      "ar": "الطباعة على الرول أثناء العمل"
+    },
+    "alt": {
+      "en": "Roll printing in progress",
+      "ar": "الطباعة على الرول أثناء العمل"
+    },
+    "approved": true
+  },
+  {
+    "path": "media/flat-surface-printing.mp4",
+    "poster": "media/flat-surface-printing.jpg",
+    "kind": "video",
+    "caption": {
+      "en": "Colour graphics on a flat surface",
+      "ar": "طباعة رسومات ملونة على سطح مسطّح"
+    },
+    "alt": {
+      "en": "Colour graphics on a flat surface",
+      "ar": "طباعة رسومات ملونة على سطح مسطّح"
+    },
+    "approved": true
+  },
+  {
+    "path": "media/illuminated-signs-displays.mp4",
+    "poster": "media/illuminated-signs-displays.jpg",
+    "kind": "video",
+    "caption": {
+      "en": "Illuminated letters and decorative displays",
+      "ar": "حروف مضيئة ولوحات ووحدات عرض زخرفية"
+    },
+    "alt": {
+      "en": "Illuminated letters and decorative displays",
+      "ar": "حروف مضيئة ولوحات ووحدات عرض زخرفية"
+    },
+    "approved": true
+  },
+  {
+    "path": "media/floral-roll-printing.mp4",
+    "poster": "media/floral-roll-printing.jpg",
+    "kind": "video",
+    "caption": {
+      "en": "Floral artwork printed on roll material",
+      "ar": "طباعة رسومات زهور على خامة رول"
+    },
+    "alt": {
+      "en": "Floral artwork printed on roll material",
+      "ar": "طباعة رسومات زهور على خامة رول"
+    },
+    "approved": true
+  }
+]
